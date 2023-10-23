@@ -13,7 +13,7 @@ Which pieces of the code did you find most challenging to write, and how did you
 I find the pieces of code that interact with other files to be sort of difficult to write. It can be very easy to make a mistake with how you interact with other programs or files, and I can struggle figuring out how that works specifically. I have been trying to simply get a better handle on the mechanics and have been trying to create more cool unique ways to solve these issues. The challenges can only lead to more innovative solutions.
 What skills from this project will be particularly transferable to other projects or course work?
 
-
+I gained all of the C++ skills from this. I knew nothing of the language before, but know I know a fair bit. Working with exterior files is also something I had not touched on a ton in the past, and that will definitely be relevant as well.
 How did you make this program maintainable, readable, and adaptable?
 
-I have been trying to do a better job at using in line notes to keep my programs readable and easy for someone to change.
+I have been trying to do a better job at using in line notes to keep my programs readable and easy for someone to change. Making sure that others can figure out what you are intending to do with your programs as well as change anything that may have fallen out of date is crucial within a program you are writing for a customer.
