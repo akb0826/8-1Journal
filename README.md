@@ -10,9 +10,10 @@ Where could you enhance your code? How would these improvements make your code m
 I definitely have issues mastering certain portions of the code. I can get caught up in what I know and what I don't know and just make things too complex. I can definitely use more time to master certain aspects and how yo make them more efficient.
 Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?
 
-
+I find the pieces of code that interact with other files to be sort of difficult to write. It can be very easy to make a mistake with how you interact with other programs or files, and I can struggle figuring out how that works specifically. I have been trying to simply get a better handle on the mechanics and have been trying to create more cool unique ways to solve these issues. The challenges can only lead to more innovative solutions.
 What skills from this project will be particularly transferable to other projects or course work?
 
 
 How did you make this program maintainable, readable, and adaptable?
 
+I have been trying to do a better job at using in line notes to keep my programs readable and easy for someone to change.
